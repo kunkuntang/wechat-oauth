@@ -1,0 +1,26 @@
+{
+  "name": "wechat-oauth",
+  "version": "0.0.1",
+  "description": "utils for wechat-oauth via node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunkuntang/wechat-oauth.git"
+  },
+  "keywords": [
+    "wechat",
+    "nodejs"
+  ],
+  "author": "kuntang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunkuntang/wechat-oauth/issues"
+  },
+  "homepage": "https://github.com/kunkuntang/wechat-oauth#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
